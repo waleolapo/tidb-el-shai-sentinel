@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+*.sqlite3
+*.db
+instance/
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.swp

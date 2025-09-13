@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "condition_name": "Yellow Leaves",
+    "crop_type": "General",
+    "symptoms": "Leaves are turning yellow, plant growth is stunted.",
+    "cause": "Most commonly caused by nitrogen deficiency, but can also be due to overwatering or poor drainage.",
+    "recommendation": "Check soil moisture first. If soil is not waterlogged, consider applying a nitrogen-rich fertilizer. Ensure pot has good drainage."
+  },
+  {
+    "id": 2,
+    "condition_name": "Powdery Mildew",
+    "crop_type": "General",
+    "symptoms": "White, powdery spots on leaves and stems.",
+    "cause": "Fungal disease that thrives in high humidity and moderate temperatures.",
+    "recommendation": "Improve air circulation around the plant. Remove affected leaves. Apply a fungicide or a solution of baking soda and water."
+  },
+  {
+    "id": 3,
+    "condition_name": "Aphids",
+    "crop_type": "General",
+    "symptoms": "Small, soft-bodied insects clustered on new growth or the underside of leaves. Leaves may be sticky or distorted.",
+    "cause": "Pest infestation.",
+    "recommendation": "Spray off with a strong jet of water. Apply insecticidal soap or neem oil. Encourage natural predators like ladybugs."
+  },
+  {
+    "id": 4,
+    "condition_name": "Blossom End Rot",
+    "crop_type": "Tomato, Pepper",
+    "symptoms": "Dark, sunken spots on the bottom of fruits.",
+    "cause": "Calcium deficiency, often caused by inconsistent watering that prevents the plant from absorbing available calcium.",
+    "recommendation": "Ensure consistent, deep watering. Avoid high-nitrogen fertilizers. A calcium spray can be a temporary fix."
+  }
+]
