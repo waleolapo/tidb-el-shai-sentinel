@@ -10,6 +10,7 @@ load_dotenv()
 # Agent Imports
 from agents.soil_climate_agent import analyze_soil_and_climate
 from agents.recommendation_agent import generate_recommendation
+from agents.weather_agent import get_weather_data
 
 # --- App Initialization ---
 app = Flask(__name__)
